@@ -1,0 +1,6 @@
+@use 'themes/dark' as abstract;
+
+.container {
+    height: 100%;
+    background-color: abstract.$background-color;
+}
